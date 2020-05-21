@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225420</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Gist Automation</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Gist Automation</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Gist Automation</property>
+</record>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225434</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = amandafloren - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">amandafloren - localhost</property>
+</record>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225435</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225435</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225436</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2020-05-15T21:00:25</date>
+  <millis>1589551225629</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Login Gist Account</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Login Gist Account</property>
+  <property name="description">Login to my Gist Account</property>
+  <property name="id">Test Cases/Login Gist Account</property>
+  <property name="source">\\Users\\amandafloren\\Katalon Studio\\Shopee - Gist Test\\Test Cases\\Login Gist Account.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+</log>

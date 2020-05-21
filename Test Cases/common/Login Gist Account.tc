@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to my Gist Account</description>
+   <name>Login Gist Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5326b8d-ebfd-4fe6-b8c9-ff52170082de</testCaseGuid>
+</TestCaseEntity>

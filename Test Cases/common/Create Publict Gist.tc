@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a user, i want to create Public Gist</description>
+   <name>Create Publict Gist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c362738-d1e7-4560-abce-d0fc9a646e28</testCaseGuid>
+</TestCaseEntity>
